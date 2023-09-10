@@ -1,6 +1,3 @@
-# Styling-the-Main-Github-Page
-Styling the Main Github Page
-
 <h2 align="left">Hi 👋! My name is Yasir Jehangir Khan and I'm a Professional Website Developer and Graphic Designer.</h2>
 
 ###
@@ -53,11 +50,5 @@ Styling the Main Github Page
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/iamyasirniazi/iamyasirniazi/output/snake.svg" alt="Snake animation" />
 
 ###
